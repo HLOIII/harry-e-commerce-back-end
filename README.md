@@ -25,3 +25,24 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
+## Usage
+Please first install node.js and then run the following commands into your terminal: 
+
+```
+git clone <from-repository-on-github>
+npm install
+npm start
+```
+Before running "npm start" command in your terminal, please make sure to update "connection.js" file with your mysql "username" and "password".
+  
+# Tests
+Run the following command "node server.js" multiple times in your terminal. Use "Insomnia Core" or "Postman" to test the routes for Category, product and Tag models.
+
+## Demo
+Please click on the following link to see the Demo video for this project:
+[Link to Demo](https://watch.screencastify.com/v/UQaa3skgRPciFcQQwDpG)  
+  
+## Questions
+If you have any questions please use the following two links to contact me:
+
+* [GitHub](https://github.com/HLOIII)  
