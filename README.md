@@ -9,7 +9,7 @@
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-```
+
 
 ### Acceptance Criteria
 
@@ -28,7 +28,6 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Usage
 Please first install node.js and then run the following commands into your terminal: 
 
-```
 git clone <from-repository-on-github>
 npm install
 npm start
